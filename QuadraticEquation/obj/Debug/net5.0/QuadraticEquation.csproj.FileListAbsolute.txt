@@ -1,0 +1,16 @@
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.exe
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.deps.json
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.runtimeconfig.json
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.runtimeconfig.dev.json
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.dll
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\bin\Debug\net5.0\ref\QuadraticEquation.dll
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.pdb
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.csproj.AssemblyReference.cache
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.AssemblyInfoInputs.cache
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.AssemblyInfo.cs
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.dll
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\obj\Debug\net5.0\ref\QuadraticEquation.dll
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.pdb
+C:\Study\SIC\ISMPrakt02\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.genruntimeconfig.cache
